@@ -1,0 +1,11 @@
+path: "tensorflow.keras.legacy.models"
+tf_module {
+  member {
+    name: "LinearModel"
+    mtype: "<type \'type\'>"
+  }
+  member {
+    name: "WideDeepModel"
+    mtype: "<type \'type\'>"
+  }
+}

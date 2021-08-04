@@ -1,0 +1,7 @@
+path: "tensorflow.keras.legacy"
+tf_module {
+  member {
+    name: "models"
+    mtype: "<type \'module\'>"
+  }
+}
